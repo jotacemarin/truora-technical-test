@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "go_servers_app/ViewController.swift"
+            timestampString = "580558415.660764"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "go_servers_app.ViewController.apiBasePath.getter : Swift.String"
+                  moduleName = "go_servers_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliomarin/Documents/juliomarin/ios/go_servers_app/go_servers_app/ViewController.swift"
+                  timestampString = "580531749.897301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "127">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "go_servers_app.ViewController.apiBasePath.setter : Swift.String"
+                  moduleName = "go_servers_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliomarin/Documents/juliomarin/ios/go_servers_app/go_servers_app/ViewController.swift"
+                  timestampString = "580531749.905314"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "go_servers_app.ViewController.apiBasePath.modify : Swift.String"
+                  moduleName = "go_servers_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliomarin/Documents/juliomarin/ios/go_servers_app/go_servers_app/ViewController.swift"
+                  timestampString = "580531749.9114029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "go_servers_app.ViewController.apiBasePath.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "go_servers_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliomarin/Documents/juliomarin/ios/go_servers_app/go_servers_app/ViewController.swift"
+                  timestampString = "580531749.9147151"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "go_servers_app.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; go_servers_app.ViewController"
+                  moduleName = "go_servers_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliomarin/Documents/juliomarin/ios/go_servers_app/go_servers_app/ViewController.swift"
+                  timestampString = "580531749.91717"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "519">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "go_servers_app.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;go_servers_app.ViewController&gt;"
+                  moduleName = "go_servers_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juliomarin/Documents/juliomarin/ios/go_servers_app/go_servers_app/ViewController.swift"
+                  timestampString = "580531749.919802"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "439">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
